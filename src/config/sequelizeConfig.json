@@ -1,0 +1,10 @@
+{
+  "database": "tutorial",
+  "username": "postgres",
+  "password": "root",
+  "params": {
+    "host": "postgres",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
